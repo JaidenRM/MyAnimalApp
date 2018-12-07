@@ -2,4 +2,21 @@
     <string name="app_name">MyAnimalApp</string>
 
     <string name="hello_world">Hello World!</string>
+
+    <!-- GENERAL UI TERMS -->
+    <string name="ui_next">Next</string>
+    <string name="ui_done">Done</string>
+    <string name="ui_submit">Submit</string>
+
+    <!-- AUTHENTICATION TERMS -->
+    <string name="auth_email">Email</string>
+    <string name="auth_login">Login</string>
+    <string name="auth_password">Password</string>
+    <string name="auth_signup">Sign Up</string>
+
+    <!-- USER PROFILE TERMS -->
+    <string name="user_firstName">First Name</string>
+    <string name="user_lastName">Last Name</string>
+    <string name="user_username">Username</string>
+
 </resources>
