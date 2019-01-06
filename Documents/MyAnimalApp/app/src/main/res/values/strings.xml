@@ -19,4 +19,10 @@
     <string name="user_lastName">Last Name</string>
     <string name="user_username">Username</string>
 
+    <!-- HOME SCREEN STRINGS -->
+    <string name="home_toolbar">Welcome Back!</string>
+    <string name="home_pets">My Pets</string>
+    <string name="home_services">Services</string>
+    <string name="home_records">My Records</string>
+
 </resources>
